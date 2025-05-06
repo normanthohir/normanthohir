@@ -23,4 +23,4 @@
 ![My Skills](https://skillicons.dev/icons?i=laravel,flutter,python,dart,php,tailwind,bootstrap,javascript,mysql,firebase,supabase,html,css,git,npm,&perline=12)
 
 
-![Animasi ular]( https://raw.githubusercontent.com/{normanthohir}/{normanthohir}/output/github-contribution-grid-snake-dark.svg )
+![Snake animation](https://raw.githubusercontent.com/{normanthohir}/{normanthohir}/output/github-contribution-grid-snake-dark.svg)
