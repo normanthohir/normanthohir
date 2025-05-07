@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&weight=600&size=20&color=36BCF7&width=435&lines=Selamat+Datang+di+Profil+GitHub+Saya!;Semoga+Hari+Anda+Menyenangkan+😊" alt="Typing Animation" />
-</p>
-
 ![Norman Thohir](img/github-header-image.png)
 
 ## 🌐 Connect With Me
@@ -22,7 +18,11 @@
 
 ![My Skills](https://skillicons.dev/icons?i=laravel,flutter,python,dart,php,tailwind,bootstrap,javascript,mysql,firebase,supabase,html,css,git,npm,&perline=12)
 
+##
+
 ![Norman GitHub stats](https://github-readme-stats.vercel.app/api?username=normanthohir&show_icons=true&theme=radical)
+
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/normanthohir/normanthohir/output/pacman-contribution-graph-dark.svg">
