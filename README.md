@@ -4,7 +4,7 @@
 
 ![Norman Thohir](img/github-header-image.png)
 
-## 🌐 Socials
+## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-norman-thohir-926730286/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
@@ -22,5 +22,12 @@
 
 ![My Skills](https://skillicons.dev/icons?i=laravel,flutter,python,dart,php,tailwind,bootstrap,javascript,mysql,firebase,supabase,html,css,git,npm,&perline=12)
 
+![Norman GitHub stats](https://github-readme-stats.vercel.app/api?username=normanthohir&show_icons=true&theme=radical)
 
-![Snake animation](https://raw.githubusercontent.com/{normanthohir}/{normanthohir}/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/normanthohir/normanthohir/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/normanthohir/normanthohir/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/normanthohir/normanthohir/output/pacman-contribution-graph.svg">
+</picture>
+
+###
