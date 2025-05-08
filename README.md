@@ -16,7 +16,7 @@
 
 ## 🛠 Things I Code With
 
-![My Skills](https://skillicons.dev/icons?i=laravel,flutter,python,dart,php,tailwind,bootstrap,javascript,mysql,firebase,supabase,html,css,git,npm,&perline=12)
+![My Skills](https://skillicons.dev/icons?i=laravel,flutter,python,dart,php,tailwind,bootstrap,javascript,mysql,firebase,supabase,html,css,git,npm,&perline=11)
 
 ##
 
